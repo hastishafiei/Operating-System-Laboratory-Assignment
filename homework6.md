@@ -13,8 +13,10 @@
 
 
 <div dir="rtl" align="right">
-<img src="https://raw.githubusercontent.com/hastishafiei/Operating-System-Laboratory-Assignment/main/pic6.1.jpg" width="750">
+<img src="https://raw.githubusercontent.com/hastishafiei/Operating-System-Laboratory-Assignment/main/6.2.jpg" width="750">
 </div>
+
+
 
 
 
