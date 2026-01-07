@@ -15,6 +15,9 @@
 <div dir="rtl" align="right">
 <img src="https://raw.githubusercontent.com/hastishafiei/Operating-System-Laboratory-Assignment/main/6.2.jpg" width="750">
 </div>
+<div dir="rtl" align="right">
+<img src="https://raw.githubusercontent.com/hastishafiei/Operating-System-Laboratory-Assignment/main/picture6.1.jpg" width="750">
+</div>
 
 
 
