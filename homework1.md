@@ -5,7 +5,7 @@
 </div>
 <div dir="rtl" align="right">
   
-<img src="https://raw.githubusercontent.com/hastishafiei/Operating-System-Laboratory-Assignment/main/homework1-q1.jpg" width="750">
+<img src="https://raw.githubusercontent.com/hastishafiei/Operating-System-Laboratory-Assignment/main/homework1q1.jpg" width="750">
 
 </div>
 
